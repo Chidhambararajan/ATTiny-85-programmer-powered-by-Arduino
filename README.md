@@ -11,3 +11,4 @@ This is the common circuit used to program Attiny85 with an Arduino
 
 when implemented through breadboard, the circuit fails in 60% of the cases due to loose connectivity , hence the circuit was converted to a diy Attiny85 programmer sheidl for arduino which looks likes this :
 
+![PCB Implementation](https://github.com/Chidhambararajan/ATTiny-85-programmer-powered-by-Arduino/blob/master/Capture.PNG?raw=true)
